@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EJBproject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PSU.war">
+      <element id="artifact" artifact-name="EJBproject:war exploded" />
+    </root>
+  </artifact>
+</component>
