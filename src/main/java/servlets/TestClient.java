@@ -15,6 +15,7 @@ import java.io.IOException;
  * Created by Home on 6/3/2015.
  */
 public class TestClient extends HttpServlet implements javax.servlet.Servlet {
+
     @EJB
     private HelloWorldLocal hello;
 
